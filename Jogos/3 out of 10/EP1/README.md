@@ -1,4 +1,4 @@
-# Tradução / Open-Source - 3 out of 10: Season 1 (PT-BR)
+# Tradução / Open-Source - 3 out of 10 EP1 (PT-BR)
 
 **Status do Projeto:** ⚠️ Jogável / Revisão Manual Pendente 
 
