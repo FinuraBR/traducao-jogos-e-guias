@@ -1,3 +1,4 @@
+- [3 out of 10](https://github.com/FinuraBR/traducao-jogos-e-guias/tree/5dbbf9c5efd995bc7eb340b33d74fda9bfe9ce57/Jogos/3%20out%20of%2010)
+- ⚠️ **The WereCleaner (Projeto Open-Source / Incompleto):** [Clique aqui para acessar o repositório oficial deste projeto](https://github.com/FinuraBR/Traducao-The-WereCleaner-PTBR)
 - [Accident](https://github.com/FinuraBR/traducao-jogos/tree/9abe6920441f1ace86bfcc0093d0b8a7a2608f57/Accident)
 - [SeekL v1.0](https://github.com/user-attachments/files/23292534/SeekL.v1.0.traducao.zip)
-- ⚠️ **The WereCleaner (Projeto Open-Source / Incompleto):** [Clique aqui para acessar o repositório oficial deste projeto](https://github.com/FinuraBR/Traducao-The-WereCleaner-PTBR)
