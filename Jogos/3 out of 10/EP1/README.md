@@ -6,40 +6,38 @@
 
 ---
 
-## Estado Atual da Tradução
+## 📌 Estado Atual da Tradução
 
-Esta tradução foi realizada utilizando modelos de IA via scripts de automação.
-
-- **Tradução via IA (Sem Revisão Manual):** No momento, os textos passaram apenas por verificação automática.
+- **Tradução via IA (Revisão Manual Pendente):** No momento, os textos passaram apenas por verificação automática.
     - **Inconsistências:** Podem ocorrer variações de termos (ex: "Achievement" pode aparecer como "Conquista Desbloqueada" em um lugar e "Conquista Obtida" em outro).
 - **Progresso por Episódio:**
 
 | Episódio | Status | Obs. |
 | :--- | :---: | :--- |
 | **Episódio 1** | ✅ Concluído | Traduzido (Revisão Manual Pendente) |
-| **Episódio 2** | 🔄 Em Andamento | Processando JSONs |
-| **Episódio 3** | ❌ Pendente | Aguardando |
-| **Episódio 4** | ❌ Pendente | Aguardando |
-| **Episódio 5** | ❌ Pendente | Aguardando |
+| **Episódio 2** | 🔄 Em Andamento ||
+| **Episódio 3** | ❌ Pendente ||
+| **Episódio 4** | ❌ Pendente ||
+| **Episódio 5** | ❌ Pendente ||
 
 ---
 
-## Como Instalar a Tradução (Para Jogadores)
+## 🛠️ Como Instalar a Tradução (Para Jogadores)
 
 A instalação foi feita para ser a mais simples possível.
 
-1. Vá até a aba **[Releases](https://github.com/FinuraBR/traducao-jogos-e-guias/releases/tag/3-out-of-10)** deste repositório (lado direito da página) e baixe a versão `.zip` mais recente.
+1. Vá até a aba **[Releases](https://github.com/FinuraBR/traducao-jogos-e-guias/releases/tag/3-out-of-10-EP1)** deste repositório (lado direito da página) e baixe a versão `.zip` mais recente.
 2. Abra a pasta onde o seu jogo está instalado (A **pasta raiz**, onde fica o arquivo `ThreeTen.exe`).
 3. Extraia todo o conteúdo do `.zip` baixado para dentro dessa pasta.
 4. Abra o jogo e divirta-se! A tradução deve carregar automaticamente.
 
 ---
 
-## Workflow e Scripts (Para Desenvolvedores/Tradutores)
+## 🤝 Workflow e Scripts (Para Desenvolvedores/Tradutores)
 
 Se você tem interesse em como essa tradução foi feita ou quer ajudar a melhorar os scripts, aqui está o fluxo de trabalho que utilizei. O processo é automatizado em Python para lidar com arquivos da Unreal Engine (`.locres` e `.uasset` convertidos para `.json`).
 
-### Estrutura do Processo
+### 🗂️ Estrutura do Processo
 O fluxo de tradução segue estritamente esta ordem para garantir a integridade dos arquivos:
 
 1.  **Divisão (`1_json_dividir`):** O arquivo original é fatiado em pequenos pedaços JSON/CSV para evitar que a IA se perca ou corte a resposta.
