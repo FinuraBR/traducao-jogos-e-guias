@@ -12,7 +12,7 @@
 
 | Episódio | Status | Obs. |
 | :--- | :---: | :--- |
-| **Episódio 1** | 🔄 Em Andamento | Revisão Manual Pendente |
+| **Episódio 1** | ✅ Concluido | Tradução mal feita. fiz apenas para eu entender um pouco do jogo |
 | **Episódio 2** | ❌ Pendente ||
 | **Episódio 3** | ❌ Pendente ||
 | **Episódio 4** | ❌ Pendente ||
