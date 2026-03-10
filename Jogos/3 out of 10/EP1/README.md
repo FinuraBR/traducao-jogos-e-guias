@@ -24,7 +24,7 @@
 
 A instalação foi feita para ser a mais simples possível.
 
-1. Vá até a aba **[Releases](https://github.com/FinuraBR/traducao-jogos-e-guias/releases/tag/3-out-of-10-EP1)** deste repositório (lado direito da página) e baixe a versão `.zip` mais recente.
+1. Vá até a aba **[Releases](https://github.com/FinuraBR/traducao-jogos-e-guias/releases/tag/3-out-of-10-EP1)** (lado direito da página) e baixe a versão `.zip` mais recente.
 2. Abra a pasta onde o seu jogo está instalado (A **pasta raiz**, onde fica o arquivo `ThreeTen.exe`).
 3. Extraia todo o conteúdo do `.zip` baixado para dentro dessa pasta.
 4. Abra o jogo e divirta-se! A tradução deve carregar automaticamente.
