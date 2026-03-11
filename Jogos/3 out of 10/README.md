@@ -8,9 +8,9 @@ O projeto visa entregar uma **base funcional** para todos os episódios. O conte
 
 | Episódio | Status | Observação |
 | :--- | :---: | :--- |
-| **Episódio 1** | ✅ Concluido ||
-| **Episódio 2** | ⌛ Em Andamento ||
-| **Episódio 3** | ❌ Pendente ||
+| **Episódio 1** | ✅ Concluido | Tradução das legendas e algumas outras coisas |
+| **Episódio 2** | ✅ Concluido | Tradução de tudo que deu |
+| **Episódio 3** | ⌛ Em Andamento ||
 | **Episódio 4** | ❌ Pendente ||
 | **Episódio 5** | ❌ Pendente ||
 
