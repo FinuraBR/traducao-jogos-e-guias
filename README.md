@@ -1,5 +1,5 @@
 - [Snakecremental](https://store.steampowered.com/app/3570430) | **Tradução do jogo, página na steam e conquistas implementadas oficialmente**
-- [3 out of 10](https://github.com/FinuraBR/traducao-jogos-e-guias/tree/d50bd4f76dc27dea47db1bf51467e33e1792fddd/Jogos/3%20out%20of%2010)
+- [3 out of 10](https://github.com/FinuraBR/traducao-jogos-e-guias/tree/main/Jogos/3%20out%20of%2010)
 - ⚠️ **The WereCleaner (Projeto Open-Source / Incompleto):** [Clique aqui para acessar o repositório oficial deste projeto](https://github.com/FinuraBR/Traducao-The-WereCleaner-PTBR)
-- [Accident](https://github.com/FinuraBR/traducao-jogos/tree/9abe6920441f1ace86bfcc0093d0b8a7a2608f57/Accident)
+- [Accident](https://github.com/FinuraBR/traducao-jogos/Accident)
 - [SeekL v1.0](https://github.com/user-attachments/files/23292534/SeekL.v1.0.traducao.zip)
