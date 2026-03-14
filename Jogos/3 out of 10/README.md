@@ -12,8 +12,8 @@ O projeto visa entregar uma **base funcional** para todos os episódios. O conte
 | **Episódio 2** | ✅ Concluido | Tradução de tudo que deu |
 | **Episódio 3** | ✅ Concluido | Tradução de tudo que deu |
 | **Episódio 4** | ✅ Concluido | Tradução de tudo que deu |
-| **Episódio 5** | ⌛ Em Andamento ||
-| **Temporada Dois** | ❌ Pendente
+| **Episódio 5** | ✅ Concluido | Tradução meia boca de tudo que deu |
+| **Temporada Dois** | ⌛ Em Andamento ||
 
 ---
 
