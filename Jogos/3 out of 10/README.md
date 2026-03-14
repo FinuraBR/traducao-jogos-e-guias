@@ -11,8 +11,9 @@ O projeto visa entregar uma **base funcional** para todos os episódios. O conte
 | **Episódio 1** | ✅ Concluido | Tradução das legendas e algumas outras coisas |
 | **Episódio 2** | ✅ Concluido | Tradução de tudo que deu |
 | **Episódio 3** | ✅ Concluido | Tradução de tudo que deu |
-| **Episódio 4** | ⌛ Em Andamento ||
-| **Episódio 5** | ❌ Pendente ||
+| **Episódio 4** | ✅ Concluido | Tradução de tudo que deu |
+| **Episódio 5** | ⌛ Em Andamento ||
+| **Temporada Dois** | ❌ Pendente
 
 ---
 
